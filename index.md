@@ -123,7 +123,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online. Registration is required: [https://psu.zoom.us/meeting/register/tJMpdeGtqDgoEtAE7XLpG975WAwhmL9t2UX5](https://psu.zoom.us/meeting/register/tJMpdeGtqDgoEtAE7XLpG975WAwhmL9t2UX5)
+  <strong>Where:</strong> This training will take place online. <a href="https://psu.zoom.us/meeting/register/tJMpdeGtqDgoEtAE7XLpG975WAwhmL9t2UX5">Registration is required</a>.
 </p>
 {% endif %}
 
